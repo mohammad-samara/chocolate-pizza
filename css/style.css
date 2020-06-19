@@ -5,7 +5,9 @@ body {
   margin-bottom: 0px;
   margin-left: auto;
 }
-
+header{
+  margin-top: 25px;
+}
 .logo {
   float: left;
 }
